@@ -1,0 +1,1 @@
+An example of Stream of int numbers and doing operations on it.
